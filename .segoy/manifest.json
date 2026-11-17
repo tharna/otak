@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "segoy": "0.1.0+a46ec1b",
+  "kit": "project",
+  "files": {
+    ".claude/scripts/brain-lint.sh": "2031dd97dc5c50dbff9b64ecadaddbfeb3d14718",
+    ".claude/scripts/leak-guard.sh": "637e48108fd421ae5cd91d056114d53d2e9fa891",
+    ".claude/scripts/protocol.sh": "faf575b67c15609d1efbb23d8a467366280cf094",
+    ".claude/scripts/strip-private.sh": "df453cbbc0fb9aeec9047d2d7945ba2c3766321d",
+    ".claude/skills/segoy-sync/SKILL.md": "e29f6cd403ff9c527000a0fb9189a6e58cad7f69",
+    ".claude/agents/implementer.md": "78990c825aa9ac01ab38700146ad696e73550104",
+    ".claude/agents/verifier.md": "3dbc1c601c33f9a3a1af2a37be192b8647923cfc",
+    ".claude/hooks/leak-check-commit.sh": "f95ec593b53d2350d8bae224f3e8be196b9c1c67",
+    ".claude/scripts/project-leak-check.sh": "b5d098ba2c02ecfa231ea2d9594bd73433920f40",
+    ".claude/settings.json": "9e9259285080c132f73e5c62fd8f2812df0a5db7",
+    ".claude/skills/segoy-implement/SKILL.md": "bb6ad4be552cf39c549cd7e214cc36007d1c51c4",
+    ".claude/skills/segoy-implement/pr-body.md": "93e5e1781c8e325bcbca9647cb330225597e411c",
+    ".claude/skills/segoy-retro/SKILL.md": "9859278b7f10430bc3c8bb94210d6108feb31cf6",
+    ".claude/skills/segoy-retro/template.md": "a3567b52a87a2cae05fcdfa92867cf3ecc0960db",
+    ".github/workflows/segoy-leak-check.yml": "2a6ef03f8690aab0ec65e93eeaeae17533ad14ca",
+    ".segoy/config.yml": "073a26d2a19a51ce9269bd56d1608045ded36ba0",
+    ".segoy/labels.json": "f1b6c705e90fd7cb71b887367034eeae50224a8e",
+    "CLAUDE.md": "f2764cbca115c823d98cfecdc46896c02b139f70",
+    "docs/retros/.gitkeep": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "docs/specs/.gitkeep": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  }
+}
